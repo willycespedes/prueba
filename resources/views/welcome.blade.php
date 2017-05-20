@@ -80,6 +80,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel atualizado
+                    prueba 2.0
                 </div>
 
                 <div class="links">
